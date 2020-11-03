@@ -1,0 +1,2 @@
+Чтобы сменить иконку машины в VirtualBox нужно запустить эту команду в консоли по пути, где находится сам VB
+VBoxManage modifyvm  "VM Name" --iconfile D:\icon.png
